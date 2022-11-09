@@ -1,0 +1,57 @@
+body
+{
+	background-image: url("pic.jpg");
+    background-size: cover;
+}
+
+h1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 100;
+}
+
+#camera
+{
+    width: 500;
+    height: 400;
+    border-color: black;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+#pic1
+{
+    width: 400px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#pic2
+{
+    width: 400px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#pic3
+{
+    width: 400px;
+    border-radius: 5px;
+    padding: 5px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
